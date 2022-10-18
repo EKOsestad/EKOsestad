@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EKOsestad
+- 👀 I’m interested in theoretical nanoscale physics and machine learning.
+- 🌱 I’m currently learning machine learning and GitHub.
